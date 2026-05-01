@@ -1,4 +1,4 @@
-# financial-audit-logic-automatation# Financial Audit Logic & Automation
+# Financial Audit Logic & Automation
 
 This repository contains anonymized **Power Query (M)** and **SQL** logic used to automate Completeness & Accuracy (C&A) testing for G-SIB (Global Systemically Important Banks) and high-risk financial audits.
 
